@@ -29,6 +29,9 @@ h2 {
 }
 
 // Skills Route
+.skills-header {
+  text-align: center;
+}
 .skills {
   display: flex;
   flex-direction: column;
@@ -193,7 +196,6 @@ h2 {
 
   // skills route
   .skills-header {
-    text-align: center;
     margin-top: 8rem;
     margin-bottom: 2rem;
   }
