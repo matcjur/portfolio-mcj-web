@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Skills extends Component {
   render() {
     return (
-      <div className="container">
+      <div className="container skills-container ">
         <h1 className="skills-header">Here are my Skills</h1>
         <div className="skills">
           <ul className="bullet-list shadow">
