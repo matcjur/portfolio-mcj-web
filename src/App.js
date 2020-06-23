@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { BrowserRouter, Route } from "react-router-dom";
+// comment for git deploy
 
 import Home from "./componenets/routes/Home";
 import About from "./componenets/routes/About";
